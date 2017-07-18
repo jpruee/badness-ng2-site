@@ -2,7 +2,7 @@
 
 Check the [wiki](https://github.com/jpruee/badness-ng2-site/wiki) or the [project](https://github.com/jpruee/badness-ng2-site/projects/1) page for current dev work and links.
 
-### General steps ###
+## General steps
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
