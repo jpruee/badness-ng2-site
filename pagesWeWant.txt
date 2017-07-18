@@ -1,0 +1,5 @@
+List of pages we want included with this app
+
+  1) Landing page / homepage --> what do we want to include here? Maybe a banner Stoops made..
+  2) Content page --> embedded video, twitter feed, links to social media, that kind of thing
+  3) Contact us page --> embedded email form?
