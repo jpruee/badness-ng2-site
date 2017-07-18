@@ -1,6 +1,6 @@
 
 
-Check the wiki and project page for current dev work and links.
+Check the [wiki](https://github.com/jpruee/badness-ng2-site/wiki) or the [project](https://github.com/jpruee/badness-ng2-site/projects/1) page for current dev work and links.
 
 
 ### General steps ###
