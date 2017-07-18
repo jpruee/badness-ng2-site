@@ -3,6 +3,7 @@
 Check the [wiki](https://github.com/jpruee/badness-ng2-site/wiki) or the [project](https://github.com/jpruee/badness-ng2-site/projects/1) page for current dev work and links.
 
 ** Please use devl branch for dev work, and make side branches for smaller card work. **
+
 ** Workflow: Merge changes from side branches to devl, then merge devl into master. **
 
 ### General steps ###
