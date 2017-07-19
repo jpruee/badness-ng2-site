@@ -12,10 +12,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Workflow
 
-Create new branch for your work (if it is a large change)
-  
-  All other development can happen in devl branch
-  
-Merge branch into devl (only if you used a new branch)
-
-Merge devl into master
+1) Create new branch for your work (if it is a large change)  
+2) All other development can happen in devl branch  
+3) Merge branch into devl (only if you used a new branch)  
+4) Merge devl into master
