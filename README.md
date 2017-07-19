@@ -12,7 +12,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Workflow
 
+** dev branch is currently the default. let me know what you think of this. **
+
 1) Create new branch for your work (if it is a large change)  
-2) All other development can happen in devl branch  
-3) Merge branch into devl (only if you used a new branch)  
+2) All other development should happen in dev branch  
+3) Merge branch into dev (only if you used a new branch)  
 4) Merge devl into master
