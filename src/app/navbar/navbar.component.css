@@ -1,11 +1,29 @@
  /* Remove the navbar's default margin-bottom and rounded borders */
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-    }
+ /* On supported browsers, make the background color of the navbar be a subtle grey-black gradient (otherwise just black) */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  background: black;
+  background: linear-gradient(#292828, black);
+}
 
-    .banner {
-      max-width: 100%;
-      display: block;
-      margin: 0 auto;
-    }
+/* Center the navbar when not on small resolution screens */
+@media screen and (min-width: 767px) {
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    margin-right: 40px; /* This is somewhat arbitrary but without it the elements are off-center */
+  }
+}
+
+/* Also used for centering the navbar, but also centers the links in the collapsed view */
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+/* Class for the banner image */
+.banner {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
